@@ -1,3 +1,4 @@
+![Alt text](./assets/screenshot_cub3d.png)
 
 
 # 🕹️ Cub3D
