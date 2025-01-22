@@ -1,19 +1,8 @@
+
+
 # 🕹️ Cub3D
 
 Welcome to **Cub3D**, a project developed as part of the 42 School curriculum. This project is an introduction to building a 3D game engine inspired by the iconic **Wolfenstein 3D**, using the raycasting technique.
-
----
-
-## 📖 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Preview](#preview)
-- [Credits](#credits)
-
----
 
 ## 🎮 Introduction
 
